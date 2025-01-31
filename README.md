@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Fatiha CHEHAIB
+- 👀 I’m interested in web development, building interactive applications, and exploring new technologies.
+- 🌱 I’m currently learning Laravel, React, and advanced full-stack development techniques.
+- 💞️ I’m looking to collaborate on exciting web projects, open-source contributions, and innovative app ideas.
+- 📫 How to reach me: chehaibfatiha@gmail.com 
